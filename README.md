@@ -5,3 +5,4 @@
 5. ensure the `dll` produced in step 2 is under `Server/Server/bin/Debug/net8.0`
     - if not, edit the path in `Client\src\extension.ts`
 6. run with the given launch configuration
+7. open or create any `.txt` file, and type `S`, you will get the auto-completion
